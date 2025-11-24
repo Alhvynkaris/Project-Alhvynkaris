@@ -14,7 +14,7 @@ Aliases:
 
 ---
 
-A short and general description of the following document; what is it and what is it not, in a brief (1-3 sentence) summary. Write in US English. The [Linter](https://github.com/platers/obsidian-linter) plugin should handle some errors, but not all. Write with American English. Follow the punctuation rules stated in *[The Punctuation Guide](https://www.thepunctuationguide.com)* lest stated otherwise.
+A short and general description of the following document; what is it and what is it not, in a brief (1-3 sentence) summary. Write in US English. The [Linter](https://github.com/platers/obsidian-linter) plugin should handle some errors, but not all. Write with American English. Follow the punctuation rules stated in *[The Punctuation Guide](https://thepunctuationguide.com)* lest stated otherwise.
 
 ## Initial Heading for First Topic
 And the information about it. Do not overuse H2. Write with all numbers as numerals, unless it is in a quote. Write akin to the [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)‘s initial premise: straightforward, succinct, in easily understood language.[^1] If a topic is dependent on other documents for understanding and does not include the relevant info in a previous topic on the same document, ***link the supplementary documents*** instead of assuming assumption, directly to its header if possible, preferably a link to the [[Alh Structure Guide|document]] in the sentence.[^2]
@@ -80,11 +80,7 @@ The hierarchy of priority from greatest to least for conlang word linking is;
  - Exact conlang.
  - [[Conlang Index|Conlang index]].
 
-Link to more obscure markdown techniques to their appropriate Obsidian page, like how “[Markdown link](https://help.obsidian.md/syntax#External+links),” was done redundantly just above.
-
-Links, whether [internal](https://help.obsidian.md/syntax#Internal+links) or [external](https://help.obsidian.md/syntax#External+links), should not spill over in the parenthesis they may be in.
-
-When in need of a placeholder or example link, link to [obsidian.md](https://obsidian.md/) out of courtesy for Obsidian being the foundation of this project. THANK YOU OBSIDIAN!! :heart:[^3]
+Link to more obscure markdown techniques to their appropriate Obsidian page, like how “[Markdown link](https://help.obsidian.md/syntax#External+links),” was done redundantly just above. Links, whether [internal](https://help.obsidian.md/syntax#Internal+links) or [external](https://help.obsidian.md/syntax#External+links), should not spill over in the parenthesis they may be in. Formatting the links, please remove tracking data, if any, from them, and expunge the `www.` for file size and consistency unless the website has archaic DNS settings and is only accessible with the `www.` subdomain, like so: `www.redundantwebsitename.com`. When in need of a placeholder or example link, link to [obsidian.md](https://obsidian.md/) out of courtesy for Obsidian being the foundation of this project. THANK YOU OBSIDIAN!! :heart:[^3]
 
 Feel free to **bold** or *italicize*, when attention and tension is intended to be brought to them. Do not however, overuse it. Use asteriks for both bold and italic by default for out-of-Obsidian legibility, lest underscores are needed for markdown edge cases.
 
