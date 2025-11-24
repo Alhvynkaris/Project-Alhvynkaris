@@ -1,0 +1,15 @@
+{
+  "promptDelete": true,
+  "vimMode": false,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "showLineNumber": false,
+  "useTab": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "tabSize": 4
+}
