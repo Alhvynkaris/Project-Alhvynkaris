@@ -23,7 +23,7 @@ Definition runes store information and can be referred to by other Imperative ru
 
 Actually *using* Definition runes is the most difficult part of magic. Abstraction may seem simple on the outside—which can be true with simple concepts and simple Manifestations—but total concept magic is extraordinarily difficult to wrap one’s head around. Hence, the popularity of *numbers*. Math is technically a concept covered by Abstraction, but is much more understood and logical than other concepts. By operating with simple concepts along with numbers, Abstraction becomes reasonable once again.
 
-Multiple Definition runes can be used together to get compound, or average concepts—which can yield curious results, such as finding the average concept of fire and ice. Read more on compound, average, and paradoxical concepts, [[Abstraction#Compound Concepts|here]], [[Abstraction#Average Concepts|here]], and [[Abstraction#Paradoxical Concepts|here]] respectively.
+Multiple Definition runes can be used together to get compound, average, or paradoxical concepts—which can yield curious results, such as finding the average concept of fire and ice. Read more on compound, average, and paradoxical concepts, [[Abstraction#Compound Concepts|here]], [[Abstraction#Average Concepts|here]], and [[Abstraction#Paradoxical Concepts|here]] respectively.
 
 Higher Circle Definition runes can store higher quantities and broad-ness of Abstraction, although due to runic optimization, it is better to have each Definition rune in a spell designed to store a specific Abstraction. The more un-alike an Abstraction is to a Definition rune, the more space in the Definition rune it will take up, and the Abstraction *clarity* will fall as well, thus distorting the concept.
 
@@ -51,15 +51,40 @@ While Definitives can comprehend and control concepts as Abstraction, Manifestat
 
 While it can be told by Definitives to Manifest either water (H~2~O) or the concept of water (as "water itself"), the result of both instructions is practically just water. The chemical instruction would generate only water, but the concept of water would generate water in accordance to the exact concept the Abstraction implies. Perhaps there's the natural impurities in water, maybe even life. The broadness a Manifest concept can be is always limited by Circle; higher Circle allows for a broader concept to be Manifested.
 
+### Declaration Runes
+The most powerful rune possible. Takes in raw Abstraction like a Definition rune and Declares the most exact conceptual definition of it into the world. They are exceedingly complex and expensive, breaking from the typical Circle mana cost schema, and are exclusively Thirteenth Circle runes.
+
 ## The Measure of a Mage
-Mages are split into 13 Circles; effectively, their rank. First through Twelfth Circles are *‘normal’*. Thirteenth Circles are called [[Alhvarikos]], the heralds of the [[Alvekai]].
+Mages are split into 13 Circles; effectively, their rank. First through Twelfth Circles are *"normal"*. Thirteenth Circles are called [[Alhvarikos]], the heralds of the [[Alvekai]].
 
 ### What is a ‘Circle’?
 A Circle is a measurement of a mage’s skill. All runes are sorted into 13 ranked categories, of exponential complexity. If a mage can manifest a Foo-th Circle rune properly, they are considered a Foo-th Circle mage, regardless of their understanding of theory or actual skill beyond mental capacity and capability, as typically, one doesn’t get very far into the Circles without theory. Thus, it is considered a universal method to determine a mage’s power.
 
-Circle was originally based on the occurance of "tiers" to runes, allowing for more abstract and conceptually correct and/or broad Definitives and Imperatives.
+Circle was originally based on the occurance of "tiers" to runes, allowing for more abstract and conceptually correct and/or broad Definitives and Imperatives. When it was found that it was simple to put the ranking of a mage aligned to the tier of runes, the Circle system was made.
 
-For easier comprehension, consider the First Circle to be D&D level 0 spells, Second Circle as level 1 spells, and so on, upto the unobtainable level 12 spells.
+For easier comprehension, consider the First Circle to be D&D level 0 spells, Second Circle as level 1 spells, and so on, upto the level 12[^6] spells as Thirteenth Circle spells.
+
+The mana cost of a Foo-th Circle is more technically a mana throughput limit. A First Circle rune has a maximum throughput of 100 aou. Any more, and the rune will [[Magic#Overcasting|*overcast*]]. For reference, 1 aou equals 1 joule, and a boxer's punch applies 700-1000J. A First Circle mage typically has around 150-300 aou on them at all times, and so are technically weaker than a boxer.
+
+Luckily, each Circle up doubles the mana throughput, and on average, triples a mage's mana capacity.
+
+| Circle | Max Aou Throughput | Max Aou Capacity |
+| ------ | ------------------ | ---------------- |
+| 1st    | 100                | 300              |
+| 2nd    | 200                | 900              |
+| 3rd    | 400                | 2,700            |
+| 4th    | 800                | 8,100            |
+| 5th    | 1,600              | 24,300           |
+| 6th    | 3,200              | 72,900           |
+| 7th    | 6,400              | 218,700          |
+| 8th    | 12,800             | 656,100          |
+| 9th    | 25,600             | 1,968,300        |
+| 10th   | 51,200             | 5,904,900        |
+| 11th   | 102,400            | 17,714,700       |
+| 12th   | 204,800            | 53,144,100       |
+| 13th   | 409,600            | 159,432,300      |
+
+159,432,300J is quite a lot. The balancing factor is actually *getting* all of that mana.
 
 #### Circles Listing
 Each Circle has a title with it, as a fancier way to express one’s rank.
@@ -72,7 +97,7 @@ Each Circle has a title with it, as a fancier way to express one’s rank.
 | 4th    | Vanail     |
 | 5th    | Kalas      |
 | 6th    | Kande      |
-| 7th    | Kynaiv     |
+| 7th    | Kynavi     |
 | 8th    | Kaevik     |
 | 9th    | Kavikan    |
 | 10th   | Aklan      |
@@ -120,3 +145,4 @@ Alas, no Alvekai would leave their Aalharis defenseless, so such an instance las
 [^3]: And thus as trivial to cast, by an Alhvarikos.
 [^4]: Note that the laws of magic are considered to be within the laws of physics.
 [^5]: That doesn't stop you from utilizing Alteration runes to provide the optimal setup for such a thing... although I personally do not know how you would do so. I imagine its possible somehow. Help me, physicists!
+[^6]: Yes, I know that 12th level spells are technically unobtainable in normal D&D. Alhvynkaris mages are just built different, although their gods are also much stronger than D&D gods, and so the Mystra's of Alhvynkaris ([[Lunai]] and [[Athelh]]) won't be killed.
