@@ -1,7 +1,7 @@
 [
   "obsidian-style-settings",
-  "multi-properties",
-  "iconic",
   "obsidian-linter",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "cmenu-plugin",
+  "chronos"
 ]

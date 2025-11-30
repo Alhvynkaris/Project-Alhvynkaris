@@ -1,6 +1,4 @@
 ---
-Author: wilt_r
-Maintainer: wilt_r
 tags:
   - Mechanic
 aliases:

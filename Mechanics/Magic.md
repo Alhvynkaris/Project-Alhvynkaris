@@ -1,6 +1,4 @@
 ---
-Author: wilt_r
-Maintainer: wilt_r
 tags:
   - Mechanic
 aliases:
@@ -49,7 +47,7 @@ The mana cost is of itself at shaping, and the direct mana to energy/matter equa
 ### Manifestation Runes
 While Definitives can comprehend and control concepts as Abstraction, Manifestation runes struggle at Manifesting concepts. They initially can *only* Manifest energy or matter. However, at higher Circles, they become more capable of Manifesting concepts, to a limited degree until it hits the limits of physics.
 
-While it can be told by Definitives to Manifest either water (H~2~O) or the concept of water (as "water itself"), the result of both instructions is practically just water. The chemical instruction would generate only water, but the concept of water would generate water in accordance to the exact concept the Abstraction implies. Perhaps there's the natural impurities in water, maybe even life. The broadness a Manifest concept can be is always limited by Circle; higher Circle allows for a broader concept to be Manifested.
+While it can be told by Definitives to Manifest either water (H<sub>2</sub>O) or the concept of water (as "water itself"), the result of both instructions is practically just water. The chemical instruction would generate only water, but the concept of water would generate water in accordance to the exact concept the Abstraction implies. Perhaps there's the natural impurities in water, maybe even life, varying by the exact concept the mage uses. The broadness a Manifest concept can be is always limited by Circle; higher Circle allows for a broader concept to be Manifested.
 
 ### Declaration Runes
 The most powerful rune possible. Takes in raw Abstraction like a Definition rune and Declares the most exact conceptual definition of it into the world. They are exceedingly complex and expensive, breaking from the typical Circle mana cost schema, and are exclusively Thirteenth Circle runes.

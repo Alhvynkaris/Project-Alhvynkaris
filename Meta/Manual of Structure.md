@@ -1,10 +1,10 @@
 ---
-Author: wilt_r
-Maintainer: wilt_r
 Tags:
   - Index
 Aliases:
-  - Home
+  - Guide
+  - Manual
+  - Instructions
 ---
 
 >*“Quote. Lorem ipsum and whatnot.”*
