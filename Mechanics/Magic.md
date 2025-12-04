@@ -64,7 +64,7 @@ For easier comprehension, consider the First Circle to be D&D level 0 spells, Se
 
 The mana cost of a Foo-th Circle is more technically a mana throughput limit. A First Circle rune has a maximum throughput of 100 aou. Any more, and the rune will [[Magic#Overcasting|*overcast*]]. For reference, 1 aou equals 1 joule, and a boxer's punch applies 700-1000J. A First Circle mage typically has around 150-300 aou on them at all times, and so are technically weaker than a boxer.
 
-Luckily, each Circle up doubles the mana throughput, and on average, triples a mage's mana capacity.
+Luckily, each Circle up multiplies the mana throughput by 10, and on average, multiplies a mage's mana capacity by 100[^7].
 
 | Circle | Max Aou Throughput | Max Aou Capacity |
 | ------ | ------------------ | ---------------- |
@@ -139,8 +139,9 @@ Alhvarikos are infamously blessed with the ability to cast thirteenth circle run
 Alas, no Alvekai would leave their Aalharis defenseless, so such an instance lasts only for an instant or so.
 
 [^1]: See *[[Magic#Miscast|miscasting]]*.
-[^2]: If a Tenth+ Circle mage ever says ‘sufficient’ mana, they actually mean obscene quantities and are just saying sufficient to sound like the intellectual they aren’t.
+[^2]: If a Tenth or higher Circle mage ever says ‘sufficient’ mana, they actually mean obscene quantities and are just saying that they need a higher research budget.
 [^3]: And thus as trivial to cast, by an Alhvarikos.
 [^4]: Note that the laws of magic are considered to be within the laws of physics.
 [^5]: That doesn't stop you from utilizing Alteration runes to provide the optimal setup for such a thing... although I personally do not know how you would do so. I imagine its possible somehow. Help me, physicists!
 [^6]: Yes, I know that 12th level spells are technically unobtainable in normal D&D. Alhvynkaris mages are just built different, although their gods are also much stronger than D&D gods, and so the Mystra's of Alhvynkaris ([[Lunai]] and [[Athelh]]) won't be killed.
+[^7]: See this [Desmos graph and table](https://www.desmos.com/calculator/ebzzpp1qyj).
