@@ -12,4 +12,6 @@ In the project’s current state, the repo is generally closed off while I (wilt
 
 ###### i fear geojson like nothing else
 
+Please note that the current codeowners system of `* @Wilt-r` is temporary, and will be changed as more people contribute their own things to maintain.
+
 thank you for contributing!
