@@ -17,7 +17,7 @@ Abstraction is the language of concepts. Any and all concepts can be conveyed vi
 There are numerous phenomenon with Abstraction that will be covered.
 
 ## Concepts
-Concepts are what Abstraction truly is. Concepts are defined by what they are defined by the mage to be, with the strong influence of other beliefs on the particular concept. A mage cannot truly control the exact concept, as other's belief will always have some influence. The most practical concept is the concept of math, which is an overwhelmingly [[Abstraction#Concept Stability|stable]] concept
+Concepts are what Abstraction truly is. Concepts are defined by what they are defined by the mage to be, with the strong influence of other beliefs on the particular concept. A mage cannot truly control the exact concept, as other's belief will always have some influence. The most practical concept is the concept of math, which is a [[Abstraction#Concept Stability|stable]] concept, and thus can be used with no worries for accidental influence, except in bleeding edge theoretical mathematics not properly defined yet.
 
 ## Concept Stability
 The more people that believe the definition of a concept is the same as each other, the stronger the influence over the concept becomes, until it is considered a *stable* concept.
