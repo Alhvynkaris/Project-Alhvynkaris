@@ -29,4 +29,4 @@ Compound concepts occur when 2 or more concepts in Abstraction are conceptually 
 Average concepts occur when 2 or more concepts in Abstraction are somewhat conceptually compatible, and thus when both are used, create an average concept. Average concepts can be made directly, but it is more frequently discovered by testing what concepts work together to create an average concept. An average concept has equal parts of the properties of the concepts used to form it.
 
 ## Paradoxical Concepts
-A paradoxical concept is any concept that cannot be used by Imperative runes, and are likely describing concepts that are too abstract for physical Manifestation or Alteration.
+A paradoxical concept is any concept that cannot be used by Imperative runes, and are likely describing concepts that are too abstract for physical Manifestation or Alteration. Because they cannot exist normally, they are exclusively used via [[Magic#Intent Magic|intent magic]].
